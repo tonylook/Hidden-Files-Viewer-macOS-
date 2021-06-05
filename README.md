@@ -1,7 +1,7 @@
 # Hidden-Files-Viewer-macOS-
 A simple Script to show hidden files on macOS
 
-To make this script runnable You need to move in the directory where you desire to put this script
+To make this script runnable You need to move to the directory where you desire to put this script
 (i have it on my desktop) and set permission to execute it. 
 
 so i open the terminal and go to my desktop with:
