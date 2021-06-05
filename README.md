@@ -10,4 +10,4 @@ cd /Users/YOURNAME/Desktop
 next i give permission to the file with:
 chmod +x hide.command
 
-so double click on it and enjoy (run with terminal app)
+so double click on it and enjoy (run with terminal)
